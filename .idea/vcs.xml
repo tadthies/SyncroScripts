@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Development/Intune Related/Intune-Tech-Enterprise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Development/Intune Related/intune-powershell-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Development/M365/Security Audit/Simeone Baseline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Development/Powershell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Development/Powershell-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Development/Powershell-2025" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Development/Powershell-Scripts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Development/Syncro Power Hour/Framework" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/365Inspect" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/AdminSeanMc" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/AzShim" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/CIS-Disable-Windows-Services---Intune-Remediation---L1-L2-Supplemental" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/ConditionalAccessBaseline" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/Intune" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/Intune-PowerShell-Samples" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/Intune-iOS-Device-Management" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/IntuneBaselinePolicies" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/IntuneManagement" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/M365Documentation" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/M365FoundationsCISReport" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/M365_Security" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/Microsoft-Script-for-policies-deployments" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/Microsoft365DSC" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/O365SOAScripts" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/Office365itpros" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/PSCommunity" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/STIG-Compliant-Domain-Prep" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/Tenant-Migration-Assessment-V2" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/Windows-Optimize-Harden-Debloat" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/admx-onedrive" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/azure-security-review" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/m365assessment" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/mggraph-intune-samples" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/pnpassessment" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/shell-intune-samples" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/simeone-Baseline" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/soa" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/theHAM" vcs="Git" />
+  </component>
+</project>

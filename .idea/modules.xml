@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/365Inspect/.idea/365Inspect.iml" filepath="$USER_HOME$/PycharmProjects/365Inspect/.idea/365Inspect.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/AdminSeanMc/.idea/AdminSeanMc.iml" filepath="$USER_HOME$/PycharmProjects/AdminSeanMc/.idea/AdminSeanMc.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/AzShim/.idea/AzShim.iml" filepath="$USER_HOME$/PycharmProjects/AzShim/.idea/AzShim.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/CIS-Disable-Windows-Services---Intune-Remediation---L1-L2-Supplemental/.idea/CIS-Disable-Windows-Services---Intune-Remediation---L1-L2-Supplemental.iml" filepath="$USER_HOME$/PycharmProjects/CIS-Disable-Windows-Services---Intune-Remediation---L1-L2-Supplemental/.idea/CIS-Disable-Windows-Services---Intune-Remediation---L1-L2-Supplemental.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/ConditionalAccessBaseline/.idea/ConditionalAccessBaseline.iml" filepath="$USER_HOME$/PycharmProjects/ConditionalAccessBaseline/.idea/ConditionalAccessBaseline.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Intune/.idea/Intune.iml" filepath="$USER_HOME$/PycharmProjects/Intune/.idea/Intune.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Intune-PowerShell-Samples/.idea/Intune-PowerShell-Samples.iml" filepath="$USER_HOME$/PycharmProjects/Intune-PowerShell-Samples/.idea/Intune-PowerShell-Samples.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Intune-iOS-Device-Management/.idea/Intune-iOS-Device-Management.iml" filepath="$USER_HOME$/PycharmProjects/Intune-iOS-Device-Management/.idea/Intune-iOS-Device-Management.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/IntuneBaselinePolicies/.idea/IntuneBaselinePolicies.iml" filepath="$USER_HOME$/PycharmProjects/IntuneBaselinePolicies/.idea/IntuneBaselinePolicies.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/IntuneManagement/.idea/IntuneManagement.iml" filepath="$USER_HOME$/PycharmProjects/IntuneManagement/.idea/IntuneManagement.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/M365Documentation/.idea/M365Documentation.iml" filepath="$USER_HOME$/PycharmProjects/M365Documentation/.idea/M365Documentation.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/M365FoundationsCISReport/.idea/M365FoundationsCISReport.iml" filepath="$USER_HOME$/PycharmProjects/M365FoundationsCISReport/.idea/M365FoundationsCISReport.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/M365_Security/.idea/M365_Security.iml" filepath="$USER_HOME$/PycharmProjects/M365_Security/.idea/M365_Security.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Microsoft-Script-for-policies-deployments/.idea/Microsoft-Script-for-policies-deployments.iml" filepath="$USER_HOME$/PycharmProjects/Microsoft-Script-for-policies-deployments/.idea/Microsoft-Script-for-policies-deployments.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Microsoft365DSC/.idea/Microsoft365DSC.iml" filepath="$USER_HOME$/PycharmProjects/Microsoft365DSC/.idea/Microsoft365DSC.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/O365SOAScripts/.idea/O365SOAScripts.iml" filepath="$USER_HOME$/PycharmProjects/O365SOAScripts/.idea/O365SOAScripts.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Office365itpros/.idea/Office365itpros.iml" filepath="$USER_HOME$/PycharmProjects/Office365itpros/.idea/Office365itpros.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/PSCommunity/.idea/PSCommunity.iml" filepath="$USER_HOME$/PycharmProjects/PSCommunity/.idea/PSCommunity.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/STIG-Compliant-Domain-Prep/.idea/STIG-Compliant-Domain-Prep.iml" filepath="$USER_HOME$/PycharmProjects/STIG-Compliant-Domain-Prep/.idea/STIG-Compliant-Domain-Prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SyncroScripts.iml" filepath="$PROJECT_DIR$/.idea/SyncroScripts.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Tenant-Migration-Assessment-V2/.idea/Tenant-Migration-Assessment-V2.iml" filepath="$USER_HOME$/PycharmProjects/Tenant-Migration-Assessment-V2/.idea/Tenant-Migration-Assessment-V2.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Windows-Optimize-Harden-Debloat/.idea/Windows-Optimize-Harden-Debloat.iml" filepath="$USER_HOME$/PycharmProjects/Windows-Optimize-Harden-Debloat/.idea/Windows-Optimize-Harden-Debloat.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/admx-onedrive/.idea/admx-onedrive.iml" filepath="$USER_HOME$/PycharmProjects/admx-onedrive/.idea/admx-onedrive.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/azure-security-review/.idea/azure-security-review.iml" filepath="$USER_HOME$/PycharmProjects/azure-security-review/.idea/azure-security-review.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/m365assessment/.idea/m365assessment.iml" filepath="$USER_HOME$/PycharmProjects/m365assessment/.idea/m365assessment.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/mggraph-intune-samples/.idea/mggraph-intune-samples.iml" filepath="$USER_HOME$/PycharmProjects/mggraph-intune-samples/.idea/mggraph-intune-samples.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pnpassessment/.idea/pnpassessment.iml" filepath="$USER_HOME$/PycharmProjects/pnpassessment/.idea/pnpassessment.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/shell-intune-samples/.idea/shell-intune-samples.iml" filepath="$USER_HOME$/PycharmProjects/shell-intune-samples/.idea/shell-intune-samples.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/simeone-Baseline/.idea/simeone-Baseline.iml" filepath="$USER_HOME$/PycharmProjects/simeone-Baseline/.idea/simeone-Baseline.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/soa/.idea/soa.iml" filepath="$USER_HOME$/PycharmProjects/soa/.idea/soa.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/theHAM/.idea/theHAM.iml" filepath="$USER_HOME$/PycharmProjects/theHAM/.idea/theHAM.iml" />
+    </modules>
+  </component>
+</project>

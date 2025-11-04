@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="simeone-Baseline" />
+    <orderEntry type="module" module-name="O365SOAScripts" />
+    <orderEntry type="module" module-name="pnpassessment" />
+    <orderEntry type="module" module-name="Office365itpros" />
+    <orderEntry type="module" module-name="soa" />
+    <orderEntry type="module" module-name="theHAM" />
+    <orderEntry type="module" module-name="Microsoft365DSC" />
+    <orderEntry type="module" module-name="shell-intune-samples" />
+    <orderEntry type="module" module-name="admx-onedrive" />
+    <orderEntry type="module" module-name="Intune" />
+    <orderEntry type="module" module-name="IntuneManagement" />
+    <orderEntry type="module" module-name="m365assessment" />
+    <orderEntry type="module" module-name="Tenant-Migration-Assessment-V2" />
+    <orderEntry type="module" module-name="M365Documentation" />
+    <orderEntry type="module" module-name="mggraph-intune-samples" />
+    <orderEntry type="module" module-name="CIS-Disable-Windows-Services---Intune-Remediation---L1-L2-Supplemental" />
+    <orderEntry type="module" module-name="365Inspect" />
+    <orderEntry type="module" module-name="Windows-Optimize-Harden-Debloat" />
+    <orderEntry type="module" module-name="M365FoundationsCISReport" />
+    <orderEntry type="module" module-name="M365_Security" />
+    <orderEntry type="module" module-name="ConditionalAccessBaseline" />
+    <orderEntry type="module" module-name="PSCommunity" />
+    <orderEntry type="module" module-name="AdminSeanMc" />
+    <orderEntry type="module" module-name="Intune-PowerShell-Samples" />
+    <orderEntry type="module" module-name="Intune-iOS-Device-Management" />
+    <orderEntry type="module" module-name="IntuneBaselinePolicies" />
+    <orderEntry type="module" module-name="AzShim" />
+    <orderEntry type="module" module-name="Microsoft-Script-for-policies-deployments" />
+    <orderEntry type="module" module-name="azure-security-review" />
+    <orderEntry type="module" module-name="STIG-Compliant-Domain-Prep" />
+  </component>
+</module>
