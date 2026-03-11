@@ -34,5 +34,6 @@
     <orderEntry type="module" module-name="Microsoft-Script-for-policies-deployments" />
     <orderEntry type="module" module-name="azure-security-review" />
     <orderEntry type="module" module-name="STIG-Compliant-Domain-Prep" />
+    <orderEntry type="module" module-name="Powershell" />
   </component>
 </module>

@@ -28,6 +28,7 @@
     <mapping directory="$USER_HOME$/PycharmProjects/O365SOAScripts" vcs="Git" />
     <mapping directory="$USER_HOME$/PycharmProjects/Office365itpros" vcs="Git" />
     <mapping directory="$USER_HOME$/PycharmProjects/PSCommunity" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/Powershell" vcs="Git" />
     <mapping directory="$USER_HOME$/PycharmProjects/STIG-Compliant-Domain-Prep" vcs="Git" />
     <mapping directory="$USER_HOME$/PycharmProjects/Tenant-Migration-Assessment-V2" vcs="Git" />
     <mapping directory="$USER_HOME$/PycharmProjects/Windows-Optimize-Harden-Debloat" vcs="Git" />
